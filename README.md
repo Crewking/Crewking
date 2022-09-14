@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Crewking
+- 👀 I’m interested in software and game development
+- 🌱 I’m currently learning c#§
